@@ -1,0 +1,21 @@
+# Ignore Node modules (install inside Docker)
+node_modules
+
+# Ignore npm logs
+npm-debug.log
+yarn-error.log
+
+# Ignore OS or system files
+.DS_Store
+
+# Ignore IDE/editor folders
+.vscode
+.idea
+
+# Ignore Git metadata
+.git
+.gitignore
+
+# Optional: ignore local build output (if you generate builds locally)
+dist
+
